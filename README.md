@@ -105,7 +105,7 @@ sepsis-early-warning-system/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/santosh-ai/sepsis-early-warning-system.git
+git clone https://github.com/santoshkumar129/Sepis-Early-warming-system.git
 cd sepsis-early-warning-system
 ```
 
@@ -350,8 +350,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 **Santosh**
 - Student, Department of Artificial Intelligence
-- Email: santosh.ai@university.edu
-- GitHub: [@santosh-ai](https://github.com/santosh-ai)
+- Email: 22F-BSAI-63@students.duet.edu.pk
+- GitHub: [@santosh-ai]([https://github.com/santosh-ai](https://github.com/santoshkumar129))
 
 **Supervisor**: Sir Hamza
 

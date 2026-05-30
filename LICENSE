@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Santosh Kumar
+Copyright (c) 2026 Santosh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+NOTE: The clinical datasets used in this project (PhysioNet Sepsis Challenge,
+MIMIC-III) are subject to separate data use agreements and are NOT included
+in this repository. Users must obtain appropriate credentials and permissions
+before accessing real patient data.

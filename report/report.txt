@@ -1,0 +1,12 @@
+SEPSIS EARLY WARNING SYSTEM - TECHNICAL REPORT
+================================================================================
+
+Can AI Save Lives? Building an Intelligent Clinical Early Warning System
+Deep Learning - Complex Computing Problem
+Author: [Your Name] | Student ID: [Your ID]
+Department of Artificial Intelligence | May 2026
+
+See Sepsis_EWS_Report.html for the full formatted report.
+See report.tex for LaTeX source (compile with pdflatex).
+
+================================================================================

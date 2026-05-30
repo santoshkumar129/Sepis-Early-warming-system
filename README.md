@@ -351,7 +351,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 **Santosh**
 - Student, Department of Artificial Intelligence
 - Email: 22F-BSAI-63@students.duet.edu.pk
-- GitHub: [@santosh-ai]([https://github.com/santosh-ai](https://github.com/santoshkumar129))
+- GitHub: https://github.com/santosh-ai](https://github.com/santoshkumar129
 
 **Supervisor**: Sir Hamza
 
